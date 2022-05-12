@@ -21,4 +21,6 @@ host cat9500-1 {
 option dhcp-client-identifier : "\000FJC123ABC"; 
 option bootfile-name "http://10.85.134.66/c9500-ztp.py";
 }
+# comment out the deny unknown-clients depending on requirements:
+deny unknown-clients;
 }
