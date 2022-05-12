@@ -1,6 +1,6 @@
 allow booting;
 allow bootp;
-option domain-name "jcohoe-vnc2.knoppix.ca";
+option domain-name "jcohoe-vnc2.cisco.com";
 default-lease-time 600;
 max-lease-time 7200;
 ddns-update-style none;
