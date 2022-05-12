@@ -1,0 +1,2 @@
+# Match the Serial Number of FJC123ABC in DHCP Option 61 "dhcp-client-identifier"
+option dhcp-client-identifier : "\000FJC123ABC"; 
